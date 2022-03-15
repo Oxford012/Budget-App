@@ -1,0 +1,3 @@
+6 50.0
+Essen Pizza 12.0
+Sport Fahrrad 124.0
